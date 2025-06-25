@@ -1,6 +1,6 @@
-# Receive and handle Whatsapp messages with Node.js using Webhooks
+# For Meta WhatsApp webhook verification
 
-Receive and handle Whatsapp messages with Node.js using Express and Axios. This tutorial covers setting up webhooks, handling message status updates, sending and replying to messages, and creating interactive lists and reply buttons.
+For Meta WhatsApp webhook verification
 
 ### Version: 1.0.0
 
